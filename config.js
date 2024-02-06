@@ -26,18 +26,28 @@ window.PorfolioConfig = {
   ],
   works: [
     {
-      name: 'Vue Stripe Checkout',
-      link: 'https://jofftiquez.github.io/vue-stripe-checkout',
-      description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
-    },
-    {
-      name: 'ToDo App',
-      link: 'https://theuselessweb.com/',
+      name: 'Rock Paper Scissors using Python',
+      link: 'https://drive.google.com/drive/folders/1M_WgGYlVM7KRnwOZyWfn1AsyyKMhx1BQ?usp=drive_link',
       description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
     },
     {
-      name: 'A Mobile Game',
-      link: 'https://theuselessweb.com/',
+      name: 'Speech To Text using Python',
+      link: 'https://drive.google.com/drive/folders/1fq-Sy_pQ1cZwl6ndEOE3F7NdwQc09ktI?usp=drive_link',
+      description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
+    }, 
+    {
+      name: 'Morse Code using Python',
+      link: 'https://drive.google.com/drive/folders/1hOfCl1eL8ujkMZbQ7bYMjTPp2jdRYJZX?usp=drive_link',
+      description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
+    },
+    {
+      name: 'Tic Tac Toe using Python',
+      link: 'https://drive.google.com/drive/folders/18wss1gtxLnJYwBidseBiW7PTMIzLg1mQ?usp=drive_link',
+      description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
+    },
+    {
+      name: 'Zomato Landing Page',
+      link: 'https://drive.google.com/drive/folders/1LobIM5yu-e7ZN8Li8bQWgUnvQziFNKaR?usp=drive_link',
       description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
     }
   ],
@@ -52,7 +62,7 @@ window.PorfolioConfig = {
     },
   
     {
-      name: 'Cooking or Baking',
+      name: 'Reading Books',
       // description: 'Laborum pariatur sint labore officia enim occaecat id.'
     }  
   ],
